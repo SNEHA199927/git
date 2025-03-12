@@ -1,3 +1,7 @@
 hello
+<<<<<<< HEAD
 i am sneha
 iam from coorg
+=======
+hello from sneha
+>>>>>>> c2b84f956ea3f385c27a48943162b8d840436c91
